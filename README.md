@@ -8,7 +8,7 @@
 
 <div align="center">
   
- 🌱 I’m currently learning **Java, React **
+ 🌱 I’m currently learning ** React **
 
  </div>
  
@@ -36,7 +36,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,mongodb,c,java,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,mongodb,c,mysql" /><br>
 </div>
 
 <br/>
